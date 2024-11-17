@@ -22,7 +22,7 @@
   "homepage": "https://github.com/EdouardCourty/user-instagram#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "cookie-parser": "^1.4.5"
+    "cookie-parser": "^1.4.7"
   },
   "scripts": {
     "eslint": "eslint .",
